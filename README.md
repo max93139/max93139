@@ -19,10 +19,10 @@
 
 ### 🚀 What I Do
 
-- 🏗️ **End-to-End Product Architecture**: Building full-stack monorepos using **Turborepo**, **NestJS**, **Next.js 14/15**, and **Prisma ORM**.
+- 🏆 **Competitive Engineering**: **11th place out of 84 teams** at **INT20H 2026** (Ukraine's premier IT hackathon) — engineered a high-load logistics & geo-tax calculation system under a 24-hour sprint.
+- 🏗️ **End-to-End Product Architecture**: Building scalable full-stack monorepos using **Turborepo**, **NestJS**, **Next.js**, and **Prisma ORM**.
 - ⚡ **Real-Time & High-Throughput Systems**: Developing WebSockets gateways with Redis caching, optimistic UI, and authoritative physics loops.
-- 🤖 **AI-Native Engineering**: Leveraging modern agentic frameworks, LLM integrations (Cloudflare Workers AI, Telegram bots via grammY), and autonomous coding workflows.
-- 🔬 **Compilers & Static Code Analysis**: Engineering AST rule analyzers and Roslyn-based quality inspection engines on **C# .NET 10**.
+- 🤖 **AI-Native Engineering**: Leveraging modern agentic workflows, LLM integrations (Cloudflare Workers AI, Telegram bots via grammY), and autonomous coding tools.
 - 🎓 **Academic Background**: Software Engineering student at **Taras Shevchenko National University of Kyiv (KNU)**.
 
 ---
@@ -62,16 +62,14 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| **[delivery-admin-panel](https://github.com/max93139/delivery-admin-panel)** | **INT20H 2026 Hackathon (11th place out of 84 teams)** — Logistics B2B management system with complex geolocation tax jurisdiction rules, streaming batch CSV/PDF data imports, and delivery analytics. | NestJS · React · PostgreSQL · Prisma · Turborepo |
 | **[social_network](https://github.com/max93139)** | Real-time messenger & platform with swipe replies, WebSockets, voice messages, Redis throttling and E2EE envelope security. | Next.js · NestJS · Socket.io · Redis · PostgreSQL |
 | **[automated-estate-valuation](https://github.com/max93139)** | Commercial SaaS for automated real estate valuation, geospatial map analytics, anti-bot data pipelines, and PDF report generation. | NestJS · React · Leaflet · PostGIS · Turborepo |
-| **[shop-ai-manager](https://github.com/max93139/shop-ai-manager)** | E-commerce monorepo featuring a Telegram bot customer wizard (Nova Poshta delivery flow) and Next.js admin dashboard. | grammY · NestJS · Next.js · Turborepo · Prisma |
-| **[LabStyleAnalyzer](https://github.com/max93139)** | High-performance C# static code analyzer built on Microsoft Roslyn AST rules with automated ClosedXML Excel reporting & CI gates. | C# .NET 10 · Roslyn AST · ClosedXML · CI/CD |
+| **[shop-ai-manager](https://github.com/max93139/shop-ai-manager)** | E-commerce monorepo featuring a Telegram bot customer wizard (Nova Poshta delivery flow) and Next.js admin dashboard with GitHub Actions CI. | grammY · NestJS · Next.js · Turborepo · Prisma |
 | **[car-parser-alert](https://github.com/max93139)** | Production automotive market monitoring service with smart deduplication, reseller detection, and instant Telegram alerts. | Python · Playwright · Neon PostgreSQL · Telegram |
 
 ---
 
 <div align="center">
 
-📬 *Reach me on [LinkedIn](https://www.linkedin.com/in/maksym-syvoplias-3a09073a0) or via [Email](mailto:max1234btc@gmail.com) — always open to discussing high-impact engineering opportunities.*
-
-</div>
+📬 *Reach me on [LinkedIn](https://www.linkedin.com/in/maksym-sy
