@@ -10,8 +10,8 @@
   leveraging modular architecture, real-time systems, and agentic AI tooling.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-syvoplias-3a09073a0)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:max1234btc@gmail.com)
+[![Email](https://img.shields.io/badge/Email-max1234btc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:max1234btc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksym_Syvoplias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-syvoplias-3a09073a0)
 
 </div>
 
@@ -72,4 +72,9 @@
 
 <div align="center">
 
-📬 *Reach me on [LinkedIn](https://www.linkedin.com/in/maksym-sy
+### 📬 Get in Touch
+**Email**: [max1234btc@gmail.com](mailto:max1234btc@gmail.com) &nbsp;·&nbsp; **LinkedIn**: [Maksym Syvoplias](https://www.linkedin.com/in/maksym-syvoplias-3a09073a0)
+
+*Open to discussing Full-Stack & Product Engineering opportunities.*
+
+</div>
