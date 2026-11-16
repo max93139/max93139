@@ -72,6 +72,16 @@
 
 <div align="center">
 
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=max93139&hide_border=true&background=0D1117&ring=5CB85C&fire=5CB85C&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=E6EDF3&sideLabels=9198A1&dates=9198A1&stroke=30363D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 📬 Get in Touch
 **Email**: [max1234btc@gmail.com](mailto:max1234btc@gmail.com) &nbsp;·&nbsp; **LinkedIn**: [Maksym Syvoplias](https://www.linkedin.com/in/maksym-syvoplias-3a09073a0)
 
