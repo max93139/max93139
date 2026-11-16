@@ -74,7 +74,7 @@
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=max93139&hide_border=true&background=0D1117&ring=5CB85C&fire=5CB85C&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=E6EDF3&sideLabels=9198A1&dates=9198A1&stroke=30363D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=max93139&amp;hide_border=true&amp;background=0D1117&amp;ring=5CB85C&amp;fire=5CB85C&amp;currStreakNum=FFFFFF&amp;currStreakLabel=FFFFFF&amp;sideNums=E6EDF3&amp;sideLabels=9198A1&amp;dates=9198A1&amp;stroke=30363D" alt="GitHub Streak" width="100%" /></a>
 
 </div>
 
