@@ -1,0 +1,28 @@
+name: Update streak card
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download the current streak card
+        run: curl -fsSL --retry 3 "https://streak-stats.demolab.com?user=max93139&hide_border=true&background=0D1117&ring=5CB85C&fire=5CB85C&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=E6EDF3&sideLabels=9198A1&dates=9198A1&stroke=30363D" -o assets/streak.svg
+
+      - name: Commit the card if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/streak.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(readme): refresh streak card"
+            git push
+          fi
