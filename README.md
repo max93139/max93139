@@ -32,35 +32,15 @@ Hackathons: **INT20H 2026 — 11th of 84 teams** · **NASA Space Apps Challenge 
 
 ### 📌 Featured Projects
 
-<sub>Click a card to open its demo or code.</sub>
-
-<p align="center">
-<a href="https://delivery-admin-panel-web.vercel.app"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/cards/delivery-light.svg"><img src="./assets/cards/delivery-dark.svg" width="49%" alt="Delivery Admin Panel"></picture></a>
-<a href="https://github.com/VitaliiFoX/hotspot-harmony"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/cards/hotspot-light.svg"><img src="./assets/cards/hotspot-dark.svg" width="49%" alt="Hotspot Harmony"></picture></a>
-</p>
-<p align="center">
-<a href="https://automated-estate-valuation-web.vercel.app"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/cards/aev-light.svg"><img src="./assets/cards/aev-dark.svg" width="49%" alt="Automated Estate Valuation"></picture></a>
-<a href="https://github.com/max93139/shop-ai-manager"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/cards/shop-light.svg"><img src="./assets/cards/shop-dark.svg" width="49%" alt="Shop AI Manager"></picture></a>
-</p>
-<p align="center">
-<picture><source media="(prefers-color-scheme: light)" srcset="./assets/cards/social-light.svg"><img src="./assets/cards/social-dark.svg" width="49%" alt="Social Network"></picture>
-<a href="https://github.com/max93139/car_parser"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/cards/car-light.svg"><img src="./assets/cards/car-dark.svg" width="49%" alt="Car Parser & Alerts"></picture></a>
-</p>
-<p align="center">
-<a href="https://github.com/vovikLXUS/cryptarc"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/cards/cryptarc-light.svg"><img src="./assets/cards/cryptarc-dark.svg" width="49%" alt="CryptArc"></picture></a>
-</p>
-
-#### 🔗 Code & demos
-
-| Project | Code | Live demo | Notes |
+| Project | What it is | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| Delivery Admin Panel | [snpkhy/delivery-admin-panel](https://github.com/snpkhy/delivery-admin-panel) | [delivery-admin-panel-web.vercel.app](https://delivery-admin-panel-web.vercel.app) | team · INT20H 2026 |
-| Hotspot Harmony | [VitaliiFoX/hotspot-harmony](https://github.com/VitaliiFoX/hotspot-harmony) | — | team · NASA Space Apps 2026 |
-| Automated Estate Valuation | private | [automated-estate-valuation-web.vercel.app](https://automated-estate-valuation-web.vercel.app) | team of 2 · [KNU achievement](https://pst.knu.ua/achievement/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%be%d1%97-%d0%be%d1%86%d1%96%d0%bd%d0%ba%d0%b8-%d0%bd%d0%b5%d1%80%d1%83/) |
-| Shop AI Manager | [max93139/shop-ai-manager](https://github.com/max93139/shop-ai-manager) | — | solo |
-| Social Network | private | — | team |
-| Car Parser & Alerts | [max93139/car_parser](https://github.com/max93139/car_parser) | — | solo |
-| CryptArc | [vovikLXUS/cryptarc](https://github.com/vovikLXUS/cryptarc) | — | team |
+| **Delivery Admin Panel**<br><sub>INT20H 2026 · frontend lead · team</sub> | B2B logistics admin: regional tax-jurisdiction rules, streaming CSV/PDF imports. **11th of 84 teams.** | NestJS · React · PostgreSQL · Prisma | [Demo](https://delivery-admin-panel-web.vercel.app) · [Code](https://github.com/snpkhy/delivery-admin-panel) |
+| **Hotspot Harmony**<br><sub>NASA Space Apps 2026 · team lead</sub> | One comparable record of MODIS + VIIRS satellite fire detections, with a burning calendar and a 3D globe. Calibration WAPE **4.3–8.0%**, **116 pytest + 232 Vitest** tests. | Python · FastAPI · DuckDB · React · MapLibre | [Code](https://github.com/VitaliiFoX/hotspot-harmony) |
+| **Automated Estate Valuation**<br><sub>main developer · team of 2</sub> | Real-estate valuation SaaS with map analytics and PDF reports. CatBoost ONNX + Uber H3 cut MdAPE from **25.2% to 13.8%**. [Recognised by the KNU department](https://pst.knu.ua/achievement/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%be%d1%97-%d0%be%d1%86%d1%96%d0%bd%d0%ba%d0%b8-%d0%bd%d0%b5%d1%80%d1%83/). | NestJS · React · Leaflet · PostGIS | [Demo](https://automated-estate-valuation-web.vercel.app) · code private |
+| **Shop AI Manager**<br><sub>solo</sub> | Telegram bot storefront and Next.js admin. **Monobank** payments with signed webhooks, **Nova Poshta** waybills via API, E2E tests in CI. | NestJS · Next.js · grammY · Prisma | [Code](https://github.com/max93139/shop-ai-manager) |
+| **Social Network**<br><sub>real-time chat on the web client · team</sub> | Messenger with voice messages, swipe-to-reply, Redis throttling and encrypted key envelopes. **85+** Vitest and E2E tests. | Next.js · NestJS · Socket.io · Redis | code private |
+| **Car Parser & Alerts**<br><sub>solo</sub> | Used-car market monitor: deduplication, reseller detection, instant Telegram alerts. **519** pytest tests, CI on push, PR and schedule. | Python · Playwright · Neon PostgreSQL | [Code](https://github.com/max93139/car_parser) |
+| **CryptArc**<br><sub>Avalonia UI, core fixes, benchmarks · team</sub> | Encrypting archiver with 8 hand-written codecs (Huffman, LZSS, Deflate, BWT, LZW…) and AES-256-GCM + Argon2id. **600+** xUnit tests. | C# · .NET 10 · Avalonia | [Code](https://github.com/vovikLXUS/cryptarc) |
 
 ---
 
