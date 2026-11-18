@@ -25,7 +25,7 @@ Hackathons: **INT20H 2026 — 11th of 84 teams** · **NASA Space Apps Challenge 
 
 - 🥇 **INT20H 2026** — 11th place out of 84 teams; frontend lead of a logistics admin panel built in 24 hours.
 - 🚀 **NASA Space Apps Challenge 2026** — team lead of Hotspot Harmony, a harmonized satellite fire-hotspot record.
-- 📰 **KNU Department of Software Engineering** — [featured on the department website](https://pst.knu.ua/news/%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d0%b8-%d0%bf%d0%b5%d1%80%d1%88%d0%be%d0%ba%d1%83%d1%80%d1%81%d0%bd%d0%b8%d0%ba%d0%b8-%d1%80%d0%be%d0%b7%d1%80%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d1%81%d0%b8/) for the automated real-estate valuation project.
+- 🏅 **KNU Department of Software Systems and Technologies** — the automated real-estate valuation system is listed among the [department's achievements](https://pst.knu.ua/achievement/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%be%d1%97-%d0%be%d1%86%d1%96%d0%bd%d0%ba%d0%b8-%d0%bd%d0%b5%d1%80%d1%83/) and was [featured in its news](https://pst.knu.ua/news/%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d0%b8-%d0%bf%d0%b5%d1%80%d1%88%d0%be%d0%ba%d1%83%d1%80%d1%81%d0%bd%d0%b8%d0%ba%d0%b8-%d1%80%d0%be%d0%b7%d1%80%d0%be%d0%b1%d0%b8%d0%bb%d0%b8-%d1%81%d0%b8/).
 - 📐 **KSE student mathematics olympiad** (Kyiv School of Economics) — participant.
 
 ---
@@ -52,11 +52,11 @@ Hackathons: **INT20H 2026 — 11th of 84 teams** · **NASA Space Apps Challenge 
 
 #### 🔗 Code & demos
 
-| Project | Code | Live demo | Team |
+| Project | Code | Live demo | Notes |
 | :--- | :--- | :--- | :--- |
 | Delivery Admin Panel | [snpkhy/delivery-admin-panel](https://github.com/snpkhy/delivery-admin-panel) | [delivery-admin-panel-web.vercel.app](https://delivery-admin-panel-web.vercel.app) | team · INT20H 2026 |
 | Hotspot Harmony | [VitaliiFoX/hotspot-harmony](https://github.com/VitaliiFoX/hotspot-harmony) | — | team · NASA Space Apps 2026 |
-| Automated Estate Valuation | private | [automated-estate-valuation-web.vercel.app](https://automated-estate-valuation-web.vercel.app) | team of 2 |
+| Automated Estate Valuation | private | [automated-estate-valuation-web.vercel.app](https://automated-estate-valuation-web.vercel.app) | team of 2 · [KNU achievement](https://pst.knu.ua/achievement/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%be%d1%97-%d0%be%d1%86%d1%96%d0%bd%d0%ba%d0%b8-%d0%bd%d0%b5%d1%80%d1%83/) |
 | Shop AI Manager | [max93139/shop-ai-manager](https://github.com/max93139/shop-ai-manager) | — | solo |
 | Social Network | private | — | team |
 | Car Parser & Alerts | [max93139/car_parser](https://github.com/max93139/car_parser) | — | solo |
