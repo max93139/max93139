@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="262" viewBox="0 0 460 262" role="img" aria-label="Delivery Admin Panel">
+<defs><linearGradient id="g-delivery" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f97316"/><stop offset="1" stop-color="#facc15"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="459" height="261" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="0.5" y="0.5" width="459" height="5" rx="2.5" fill="url(#g-delivery)"/>
+<text x="22" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#1f2328">Delivery Admin Panel</text>
+<rect x="352" y="24" width="86" height="22" rx="11" fill="url(#g-delivery)" opacity="0.18"/>
+<text x="395" y="39" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#f97316">INT20H 2026</text>
+<text x="22" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#31363c">B2B logistics admin with regional tax-jurisdiction rules and</text>
+<text x="22" y="89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#31363c">streaming CSV/PDF imports.</text>
+<rect x="22" y="108" width="203" height="62" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="34" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="url(#g-delivery)">11 / 84</text>
+<text x="34" y="158" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#59636e">hackathon place</text>
+<rect x="235" y="108" width="203" height="62" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="247" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="url(#g-delivery)">24 h</text>
+<text x="247" y="158" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#59636e">build sprint</text>
+<text x="22" y="198" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">Role · <tspan fill="#31363c" font-weight="600">Frontend lead</tspan></text>
+<rect x="22" y="218" width="55" height="26" rx="6" fill="#eaeef2"/>
+<text x="49" y="235" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#31363c">NestJS</text>
+<rect x="84" y="218" width="48" height="26" rx="6" fill="#eaeef2"/>
+<text x="108" y="235" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#31363c">React</text>
+<rect x="139" y="218" width="80" height="26" rx="6" fill="#eaeef2"/>
+<text x="179" y="235" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#31363c">PostgreSQL</text>
+<rect x="226" y="218" width="55" height="26" rx="6" fill="#eaeef2"/>
+<text x="254" y="235" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#31363c">Prisma</text>
+<rect x="288" y="218" width="74" height="26" rx="6" fill="#eaeef2"/>
+<text x="325" y="235" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#31363c">Turborepo</text>
+</svg>
