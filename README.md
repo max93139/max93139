@@ -17,7 +17,7 @@ Hackathons: **INT20H 2026 — 11th of 84 teams** · **NASA Space Apps Challenge 
 ### 🧭 Right now
 
 - 📚 **Learning:** deepening JavaScript & TypeScript fundamentals (event loop, type system, async patterns) and practicing framework live coding without AI.
-- 🛠 **Building:** payments and delivery for [shop-ai-manager](https://github.com/max93139/shop-ai-manager) — Monobank links with signed webhooks, Nova Poshta waybills, end-to-end tests in CI.
+- 🛠 **Building:** rewriting **Social Network** in **Swift** — native iOS client for the real-time messenger (voice messages, swipe-to-reply, WebSockets & encrypted key envelopes).
 
 ---
 
